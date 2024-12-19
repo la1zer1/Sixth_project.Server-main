@@ -6,7 +6,7 @@ export const apiSettings = {
   serverURL: 'https://mesto.nomoreparties.co/v1/frontend-st-cohort-201',
   headers: {
     // Токен авторизации для идентификации пользователя
-    authorization: 'a05ee6fe-3b61-4627-ae5c-26cff69d358d',
+    authorization: '71425646-8aed-4fac-8154-98f37b6977c8',
     // Указывает, что данные передаются в формате JSON
     'Content-Type': 'application/json'
   }
